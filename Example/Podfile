@@ -1,0 +1,6 @@
+use_frameworks!
+target 'OptionalProtocol_Tests' do
+  pod 'OptionalProtocol', :path => '../'
+  
+  
+end
