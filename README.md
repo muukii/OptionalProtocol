@@ -5,9 +5,16 @@
 [![License](https://img.shields.io/cocoapods/l/OptionalProtocol.svg?style=flat)](http://cocoapods.org/pods/OptionalProtocol)
 [![Platform](https://img.shields.io/cocoapods/p/OptionalProtocol.svg?style=flat)](http://cocoapods.org/pods/OptionalProtocol)
 
+It is impossible to add a constraint for the optional in generics.
+But, OptionalProtocol will be able to that.
+
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+```swift
+func unwrap<T: OptionalProtocol>(object: T) -> T.Wrapped
+```
+
+(object: T) must be Optional<T>
 
 ## Requirements
 
