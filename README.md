@@ -6,6 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/OptionalProtocol.svg?style=flat)](http://cocoapods.org/pods/OptionalProtocol)
 
 It is impossible to add a constraint for the optional in generics.
+
 But, Using `OptionalProtocol` with Generics, you can add a `Optional` type constraint to type parameter `T`
 
 ## Example
