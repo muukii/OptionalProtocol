@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'OptionalProtocol'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'OptionalProtocol will be able to add constraint for Optional<T> in generics.'
   s.description      = <<-DESC
                         OptionalProtocol will be able to add constraint for Optional<T> in generics.
