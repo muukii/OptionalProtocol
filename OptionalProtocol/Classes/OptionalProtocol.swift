@@ -27,7 +27,7 @@ public protocol OptionalProtocol {
 
 extension Optional: OptionalProtocol {
     
-    public var value: Wrapped? {
+    public var value: Wrapped? {        
         return self
     }
 }

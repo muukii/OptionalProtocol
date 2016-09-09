@@ -1,0 +1,16 @@
+PODS:
+  - OptionalProtocol (0.1.0)
+
+DEPENDENCIES:
+  - OptionalProtocol (from `../`)
+
+EXTERNAL SOURCES:
+  OptionalProtocol:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OptionalProtocol: d6eb2818ddb3c10118c1b614b08b1d740dbedcdd
+
+PODFILE CHECKSUM: 24e918be2bcc463c12c710c388e4a802674e6982
+
+COCOAPODS: 1.0.1

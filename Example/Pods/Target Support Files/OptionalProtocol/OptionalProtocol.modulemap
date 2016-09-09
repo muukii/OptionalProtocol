@@ -1,0 +1,6 @@
+framework module OptionalProtocol {
+  umbrella header "OptionalProtocol-umbrella.h"
+
+  export *
+  module * { export * }
+}

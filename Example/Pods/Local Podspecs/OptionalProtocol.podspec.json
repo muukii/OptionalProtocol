@@ -1,0 +1,22 @@
+{
+  "name": "OptionalProtocol",
+  "version": "0.1.0",
+  "summary": "A short description of OptionalProtocol.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/OptionalProtocol",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "muukii": "m@muukii.me"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/OptionalProtocol.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OptionalProtocol/Classes/**/*"
+}
