@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/OptionalProtocol.svg?style=flat)](http://cocoapods.org/pods/OptionalProtocol)
 [![License](https://img.shields.io/cocoapods/l/OptionalProtocol.svg?style=flat)](http://cocoapods.org/pods/OptionalProtocol)
 [![Platform](https://img.shields.io/cocoapods/p/OptionalProtocol.svg?style=flat)](http://cocoapods.org/pods/OptionalProtocol)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 It is impossible to add a constraint of optional in generics. But, OptionalProtocol will enable that.
 
